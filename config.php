@@ -1,4 +1,4 @@
-﻿﻿﻿<?
+﻿﻿<?
     $host = "localhost";
     $dbid = "db2018320178";                    // 자신의 DB ID
     $dbpass = "1999@korea.ac.kr";                  // 자신의 DB Password
